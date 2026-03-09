@@ -89,21 +89,6 @@ http://localhost:3000
 
 ---
 
-# 📈 Informe Técnico
-
-El informe con las capturas de pantalla de los logs, comparativas de tiempos (sin caché vs con caché) y la evidencia del procesamiento asíncrono se encuentra adjunto en la carpeta /docs (o en la raíz del repositorio).
-
-El proyecto incluye evidencias de:
-
-- Comparación de tiempos **con y sin caché**
-- Reducción de consultas **N+1 con DataLoader**
-- Ejecución de tareas en **Job Queue**
-- Comparación de payload **con y sin Lazy Loading**
-
-Las capturas y análisis se encuentran en el informe técnico.
-
----
-
 # 👨‍💻 Autor
 
 **Erick Rosero**
